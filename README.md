@@ -1,3 +1,7 @@
+# Description
+
+This is a simple Java program I made to get some practice with the use of basic data structures
+
 # INSTRUCTION
 
 ## Running the Program
@@ -17,7 +21,3 @@
 3. Once all robots have finished their tasks, program will display a leaderboard, ranking robots by their completion time. The robot that took the least amount of time to complete all five of its tasks will be ranked Number 1.
 
 4. Program will prompt users with the option to exit the program. Enter `Y` to exit, `n` or any other inputs to repeat the program.
-
-## Author
-
-Leo Zhang
